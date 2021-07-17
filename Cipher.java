@@ -58,7 +58,7 @@ public class Cipher {
 		
 		num4 = intscan.nextInt();
 		if (num4>=0 && num4<=19)
-			System.out.println("Fourth number: "+num4);
+			System.out.println("4th number: "+num4);
 		else 
 		{
 			System.out.println("Please read the directions and try again!");
